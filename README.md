@@ -1,6 +1,7 @@
 # FinTrend: A Financial Machine Learning App
 
 **Course Name**: Programming for Finance
+
 **Instructor**: Dr. Usama Janjua
 
 ## 📊 Overview
