@@ -1,20 +1,23 @@
-# FinTrend: Financial Machine Learning App
+# FinTrend: A Financial Machine Learning App
 
-## Course Name:
-Programming for Finance
+**Course Name**: Financial Analytics & Forecasting  
+**Instructor**: [Insert Instructor Name]
 
-## Instructor Name:
-Dr. Usama Janjua
+## 📊 Overview
+FinTrend is a Streamlit-based machine learning app that allows users to visualize and forecast financial stock data using Linear Regression. It features interactive charts, financial instructions, quote of the day, and links to Kaggle for datasets.
 
-## App Overview:
-FinTrend is a financial machine learning application built with Streamlit. It allows users to upload or fetch financial data from Yahoo Finance, apply linear regression models, and analyze the results. The app visualizes predictions and cumulative returns.
+## 🔗 Deployment
+[Click here to try the live app!](https://yourname.streamlit.app)
 
-## Features:
-- Upload Kaggle dataset or fetch stock data from Yahoo Finance.
-- Use Linear Regression to predict stock prices.
-- Visualize actual vs predicted stock prices and cumulative returns.
+## 🎥 Demo Video
+[Upload a video to Google Drive or YouTube and share the link here]
 
-## Deployment Link:
+## 📁 Files Included
+- `app.py` — main app file
+- `requirements.txt` — dependencies
+- `README.md` — project overview
+- `assets/` — includes GIFs or images used
 
-## GitHub Repository Link:
-https://github.com/ASR4792/FinTrend-App.git
+---
+
+**© Ahmed Saleh Riaz — All rights reserved**
