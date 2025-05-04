@@ -5,7 +5,7 @@
 **Instructor**: Dr. Usama Janjua
 
 ## 📊 Overview
-FinTrend is a Streamlit-based machine learning app that allows users to visualize and forecast financial stock data using Linear Regression. It features interactive charts, financial instructions, quote of the day, and links to Kaggle for datasets.
+FinTrend is a Streamlit-based machine learning app that allows users to visualize and forecast financial stock data using Linear Regression. It features interactive charts, financial instructions, and links to Kaggle for datasets.
 
 ## 🔗 Deployment
 [https://asr4792-fintrend-app-app-0k53dg.streamlit.app/](https://asr4792-fintrend-app-app-0k53dg.streamlit.app/)
